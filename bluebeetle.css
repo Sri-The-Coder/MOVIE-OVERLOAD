@@ -1,0 +1,31 @@
+body{
+    background-image:url("https://upload.wikimedia.org/wikipedia/en/c/c1/Blue_Beetle_poster.jpg");
+    background-size: 1600px 700px;
+  
+  }
+  section{
+    text-align:center;
+  }
+  #head1{
+     color:aqua;
+     font-family: 'Mukta', sans-serif;
+  font-family: 'Vina Sans', sans-serif;
+    font-size:80px;
+  
+  
+  }
+  #head2{
+      color:aqua;
+     font-family: 'Mukta', sans-serif;
+  font-family: 'Vina Sans', sans-serif;
+    font-size:40px;
+  
+  }
+  #rent{
+     background-color:aqua;
+     color:blueS;
+     width:300px;
+     height:150px;
+  
+  }
+  

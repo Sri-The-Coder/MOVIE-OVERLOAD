@@ -1,0 +1,32 @@
+
+body{
+    background-image:url("https://resizing.flixster.com/M017ThZ8ZrlD1lEJL56EOAXkW2w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E2NTI2Y2ZlLTZlNGItNDIxMi1hZTI4LTgyOTIwOTNlMDU1OS5qcGc=");
+    background-size: 1600px 700px;
+    
+  }
+  section{
+    text-align:center;
+  }
+  #head1{
+     color:red;
+     font-family: 'Mukta', sans-serif;
+  font-family: 'Vina Sans', sans-serif;
+    font-size:80px;
+  
+  
+  }
+  #head2{
+      color:red;
+     font-family: 'Mukta', sans-serif;
+  font-family: 'Vina Sans', sans-serif;
+    font-size:40px;
+  
+  }
+  #rent{
+     background-color:red;
+     color:yellow;
+     width:300px;
+     height:150px;
+  
+  }
+    
